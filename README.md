@@ -22,4 +22,4 @@ A small percentage of visitors write and argue online.
 
 I'm interested in all ideas, feedback and comments to make this work.
 
-![Balsamiq Mockup](mockup.png)
+![Balsamiq Mockup](Mockup.png)
