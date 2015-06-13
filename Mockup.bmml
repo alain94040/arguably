@@ -829,5 +829,106 @@
         <text>When%20the%20user%20clicks%20on%20disagree%2C%20we%20make%20space%20where%20the%20answer%20will%20appear.%0AIs%20it%20intuitive%20that%20clicking%20disagree%20in%20the%20left%20column%20will%20open%20a%20text%20field%20in%20the%20right%20column%3F</text>
       </controlProperties>
     </control>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1677" y="1035" w="1076" h="680" measuredW="450" measuredH="400" zOrder="139" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Canvas" x="2229" y="1268" w="413" h="110" measuredW="100" measuredH="70" zOrder="140" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Canvas" x="1720" y="1220" w="413" h="117" measuredW="100" measuredH="70" zOrder="141" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::Paragraph" x="1733" y="1227" w="375" h="79" measuredW="275" measuredH="80" zOrder="142" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No%20but%20we%20are%20in%20an%20valuation%20bubble.%0ATech%20is%20still%20generally%20underrated%20compared%20to%20it%27s%20importance%20for%20society%20but%20there%20is%20a%20whole%20suite%20of%20primarily%20Silicon%20Valley%20funded%20companies%20whos%20valuation%20is%20based%20on%20it%27s%20investors%20alternative%20views%20of%20what%20value%20is.</text>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::Paragraph" x="1738" y="1142" w="787" h="57" measuredW="275" measuredH="80" zOrder="143" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Are%20we%20in%20the%20middle%20of%20yet%20another%20tech%20bubble%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::VRule" x="2180" y="1220" w="-1" h="437" measuredW="10" measuredH="100" zOrder="144" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Paragraph" x="1757" y="1313" w="114" h="16" measuredW="275" measuredH="80" zOrder="145" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>johnfoo%2014%20points</text>
+      </controlProperties>
+    </control>
+    <control controlID="182" controlTypeID="com.balsamiq.mockups::Paragraph" x="2242" y="1277" w="403" h="80" measuredW="275" measuredH="80" zOrder="146" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20ironic%20part%20about%20bubbles%20is%20that%2C%20necessarily%2C%20+80%25%20of%20people%20believe%20we%27re%20not%20in%20a%20bubble%20just%20before%20it%20pops.%20After%20all%2C%20this%20is%20the%20primary%20reason%20for%20a%20bubble.%20This%20means%20that%20asking%20people%20if%20we%27re%20in%20a%20bubble%20is%20sort%20of%20a%20measure%20of%20the%20inverse.</text>
+      </controlProperties>
+    </control>
+    <control controlID="183" controlTypeID="com.balsamiq.mockups::Paragraph" x="2259" y="1347" w="124" h="20" measuredW="275" measuredH="80" zOrder="147" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>blinded%207%20points</text>
+      </controlProperties>
+    </control>
+    <control controlID="184" controlTypeID="com.balsamiq.mockups::Paragraph" x="1953" y="1313" w="149" h="25" measuredW="275" measuredH="80" zOrder="148" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%26Like%26%20%26improve%26%20%26disagree%26</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="187" controlTypeID="com.balsamiq.mockups::Paragraph" x="2488" y="1349" w="149" h="25" measuredW="275" measuredH="80" zOrder="149" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%26Like%26%20%26improve%26%20%26disagree%26</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="188" controlTypeID="com.balsamiq.mockups::Label" x="1868" y="1182" w="69" h="-1" measuredW="48" measuredH="21" zOrder="150" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>In%20Favor</text>
+      </controlProperties>
+    </control>
+    <control controlID="189" controlTypeID="com.balsamiq.mockups::Label" x="2389" y="1182" w="69" h="-1" measuredW="46" measuredH="21" zOrder="151" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <text>Against</text>
+      </controlProperties>
+    </control>
+    <control controlID="190" controlTypeID="com.balsamiq.mockups::Button" x="2137" y="1180" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="152" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Make%20a%20Point</text>
+      </controlProperties>
+    </control>
+    <control controlID="193" controlTypeID="com.balsamiq.mockups::Title" x="1754" y="962" w="-1" h="-1" measuredW="920" measuredH="43" zOrder="153" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Design%20with%20plenty%20of%20points%20with%20no%20counter-points</text>
+      </controlProperties>
+    </control>
+    <control controlID="197" controlTypeID="com.balsamiq.mockups::Canvas" x="2120" y="1223" w="517" h="23" measuredW="100" measuredH="70" zOrder="154" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="198" controlTypeID="com.balsamiq.mockups::Canvas" x="1720" y="1351" w="517" h="23" measuredW="100" measuredH="70" zOrder="155" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="199" controlTypeID="com.balsamiq.mockups::StickyNote" x="2117" y="1411" w="187" h="142" measuredW="109" measuredH="123" zOrder="156" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Instead%20of%20leaving%20a%20lot%20of%20empty%20space%20%28bad%29%2C%20we%20can%20use%20subtle%20outlines%20to%20show%20that%20there%20is%20no%20matching%20counter-point%2C%20and%20have%20a%20more%20efficient%20layout.</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
