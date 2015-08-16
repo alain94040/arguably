@@ -36,9 +36,11 @@ This is what the top-10 page would look like:
     <p class="whynot loser">counter-argument for why we are in a bubble, received fewer votes than the argument above, so it's displayed less prominently</p>
 
     <h1>#2</h1>
-    <p class="why loser">argument for why we are in a bubble, intestingly, is not winning even though we always would display why argument first</p>
+    <p class="why loser">another argument for why we are in a bubble, interestingly, is not winning compared to the counter-argument below, though we always would display why argument first</p>
     <p class="whynot winner">counter-argument for why we are in a bubble, voted more than the original argument, so must be displayed promonently</p>
 
+
+A feature would be to have a title for each argument/counter-argument, or allow each argument to highlight (bold and large font) a few words, so people can quickly get the gist of the argument. It's not just cosmetic: it would also help guide the counter-argument, so you know better what you are providing a counter-point for.
 
 ## How you can help
 
