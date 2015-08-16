@@ -11,23 +11,39 @@ How do we bring "answers worth saving" to general discussions? So far, online fo
 Key ideas:
 
 * multiple top comments are ok, there is no one right answer
-* comments should be improved by the community, not one single contributor can write the best comment on first attempt, others need to help (similar to wikipedia) 
+* comments should be improved by the community, not one single contributor can write the best comment on first attempt, others need to help (similar to wikipedia, without the hassle) 
 
 
 Most of the visitors are casual readers (lurkers). For them, the value is in quickly seeing the best top comments so they can make up their own mind. They also like to vote for the comments they like most.
 
 A small percentage of visitors write and argue online.
 
+## Mockup
+
+After one iteration of brainstorming, here are the new specs:
+
+* show the top-10 "why" and "why not" comments, which should fit pretty much on one page for most systems (definitely for desktop/laptops, maybe not quite so for phones)
+* if you click on one of the top-10 items, a new full-screen page appears that shows you the different versions of arguments that people used, so you can edit, improve or upvote
+
+Basically, rely on those two "full-screen" views for everything. The top-10 view is meant to be the reference page for that topic, that Google would index and shows the high-quality answers that people are looking for. The "improve" view is where contributors do the nitty-gritty of working out what should be great content.
+
+This is what the top-10 page would look like:
+
+    <title>are we in a tech bubble yet?</title>
+
+    <h1>#1</h1>
+    <p class="why winner">argument for why we are in a bubble, received more votes than the counter-argument so it's winning</p>
+    <p class="whynot loser">counter-argument for why we are in a bubble, received fewer votes than the argument above, so it's displayed less prominently</p>
+
+    <h1>#2</h1>
+    <p class="why loser">argument for why we are in a bubble, intestingly, is not winning even though we always would display why argument first</p>
+    <p class="whynot winner">counter-argument for why we are in a bubble, voted more than the original argument, so must be displayed promonently</p>
+
+
 ## How you can help
 
-I'm interested in all ideas, feedback and comments to make this work. See the Balsamiq mockup below to get a better idea of what I have in mind, and then send comments!
+I'm interested in all ideas, feedback and comments to make this work.
 
-The original idea was to have 3 columns, so the top 3 comments would be shown. This was potentially great for gamification: you'd definitely want your comment to make it to one of the top 3. On the other hand, it may have been confusing. So instead, I'm exploring the idea of a more binary choice: for and against the topic. Pick a side.
+There are so many possibilities and choice to be made. You can help! Shoot me an email. Criticisms welcome as well ("this will never work because...").
 
-In that format, there are two columns, and each column will have the best arguments (by vote) listed on top. There is no nested or threaded discussion. Really, there is just one level of threading, implicitly: you can "disagree" with an argument, which lets you enter your own argument opposite the one you disagree with.
-
-A key challenge is to motivate people to improve on other people's arguments, rather than write their own. So you can edit anyone's argument to make it better (votes should be able to tell us whether you succeeded or not). Editors should be credited together with the original author of an argument.
-
-We'll probably add the capability to add short comments to either side of the discussion, similar to what StackOverflow is doing. But they should not be the main point of focus.
-
-![Balsamiq Mockup](Mockup.png)
+I'm so good at CSS, so if someone can contribute a really basic template that covers the top-10 screen, that would be awesome.
