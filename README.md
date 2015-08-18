@@ -40,6 +40,8 @@ This is what the top-10 page would look like:
     <p class="whynot winner">counter-argument for why we are in a bubble, voted more than the original argument, so must be displayed promonently</p>
 
 
+![Mockup](whynot_mockup.png)
+
 A feature would be to have a title for each argument/counter-argument, or allow each argument to highlight (bold and large font) a few words, so people can quickly get the gist of the argument. It's not just cosmetic: it would also help guide the counter-argument, so you know better what you are providing a counter-point for.
 
 ## How you can help
