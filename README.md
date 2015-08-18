@@ -50,4 +50,4 @@ I'm interested in all ideas, feedback and comments to make this work.
 
 There are so many possibilities and choice to be made. You can help! Shoot me an email. Criticisms welcome as well ("this will never work because...").
 
-I'm so good at CSS, so if someone can contribute a really basic template that covers the top-10 screen, that would be awesome.
+I'm not good at CSS, so if someone can contribute a really basic template that covers the top-10 screen, that would be awesome.
