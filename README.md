@@ -29,6 +29,10 @@ Basically, rely on those two "full-screen" views for everything. The top-10 view
 
 This is what the top-10 page would look like:
 
+The (ugly) mockup below shows how arguments and counter-arguments are grouped together, and how the winning argument is displayed with a bigger font in bold, while the losing argument uses a smaller font and italics. I'm sure this can be designed better...
+
+![Mockup](whynot_mockup.png)
+
     <title>are we in a tech bubble yet?</title>
 
     <h1>#1</h1>
@@ -38,9 +42,6 @@ This is what the top-10 page would look like:
     <h1>#2</h1>
     <p class="why loser">another argument for why we are in a bubble, interestingly, is not winning compared to the counter-argument below, though we always would display why argument first</p>
     <p class="whynot winner">counter-argument for why we are in a bubble, voted more than the original argument, so must be displayed promonently</p>
-
-
-![Mockup](whynot_mockup.png)
 
 A feature would be to have a title for each argument/counter-argument, or allow each argument to highlight (bold and large font) a few words, so people can quickly get the gist of the argument. It's not just cosmetic: it would also help guide the counter-argument, so you know better what you are providing a counter-point for.
 
