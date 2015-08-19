@@ -1,0 +1,43 @@
+.why {
+    border-top:4px solid #000;
+    border-left:4px solid #000;
+    border-right:4px solid #000;
+    border-bottom:1px solid #000;
+    border-radius: 10px 10px 0px 0px;
+    width: 90%;
+}
+
+.whynot {
+    border-bottom:4px solid #000;
+    border-left:4px solid #000;
+    border-right:4px solid #000;
+    border-top:1px solid #000;
+    border-radius: 0px 0px 10px 10px;
+    width: 90%;
+}
+
+.middle {
+    border-left:4px solid #000;
+    border-right:4px solid #000;
+    width: 90%;
+}
+
+.middle p {
+    margin:0;
+    font-size:120%;
+    margin:10px;
+}
+
+.winner {
+    border-color: red;
+    font-size:105%;
+}
+
+.loser {
+    border-color: gray;
+    color: gray;
+}
+
+p {
+    margin:10px;
+}
