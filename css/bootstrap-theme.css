@@ -38,7 +38,7 @@
   text-shadow: none;
 }
 .btn:active,
-.btn.active {
+.btn.list-group-item {
   background-image: none;
 }
 .btn-default {
