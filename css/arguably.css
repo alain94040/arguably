@@ -16,31 +16,19 @@
     width: 90%;
 }
 
-.middle {
-    border-left:4px solid #499e8d;
-    border-right:4px solid #499e8d;
-    width: 90%;
-    background: #fff6c9;
-}
-
-.middle h2 {
-    margin-top:0px;
-    margin-bottom:0px;
-    padding:10px;
-    font-size:120%;
-}
 
 .list-group-item.active {
     font-size:105%;
-    background: #ddd;
+    background: linen;
     color: black;
     text-shadow: none;
 }
 
 .list-group-item {
-    font-size: 80%;
+    font-size: 90%;
     padding-top: 5px;
     padding-bottom: 5px;
+    background: ivory;
 }
 
 p {
@@ -71,4 +59,16 @@ h2 {
     text-align: center;
     
     font-size: 20px;
+}
+
+.author {
+    float: right;
+    margin-left:30px;
+    font-size: 9pt;
+    color: #666;
+    margin-top:10px;
+}
+
+.list-group {
+    margin-bottom: 10px;
 }
